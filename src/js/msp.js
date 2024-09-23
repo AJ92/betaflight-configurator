@@ -56,7 +56,7 @@ const MSP = {
 
     MIN_TIMEOUT:                200,
     MAX_TIMEOUT:                2000,
-    timeout:                    200,
+    timeout:                    400,
 
     last_received_timestamp:   null,
     listeners:                  [],
